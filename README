@@ -1,0 +1,12 @@
+--------------------------------------------------------
+READ ME
+--------------------------------------------------------
+This is an application that facilitates the communication
+between the parent and the teacher. It allows the parent
+to stay up to date with his kids school activities and know
+how his kids are doing academically. 
+
+The application uses the SLC REST APIs for retrieving and
+storing data about students and educational data in general.
+
+
